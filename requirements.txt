@@ -1,0 +1,7 @@
+youtube_transcript_api
+streamlit
+google_genai
+python-dotenv
+pathlib
+yt-dlp
+ffmpeg-python
